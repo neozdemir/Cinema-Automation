@@ -1,0 +1,25 @@
+C:\Users\ndirier\Desktop\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\ndirier\Desktop\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\ndirier\Desktop\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.pdb
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.kaydol.resources
+C:\Users\ndirier\Desktop\sinema\sinema\obj\Debug\sinema.giris.resources
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.pdb
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.giris.resources
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.kaydol.resources
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\ndirier\Desktop\sinema\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sinema\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sinema\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sinema\sinema\sinema\obj\Debug\sinema.pdb
